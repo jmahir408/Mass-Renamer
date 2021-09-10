@@ -1,3 +1,6 @@
+<p>
+  <img src="https://raw.githubusercontent.com/jmahir408/Mass-Renamer/main/gif/Demonstration.gif" />
+</p>
 # Mass-Renamer
 Python Script to rename many files
 
